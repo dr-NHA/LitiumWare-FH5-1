@@ -1,4 +1,6 @@
 Confirmed Rat And Super Evasion By Powershell Obfuscation:
+Dupe Of Previously Reported Malware/Rat:
+https://github.com/dr-NHA/LitiumWare-FH5
 
 ![Obfuscated](https://cdn.discordapp.com/attachments/1070318710742597704/1110830338046955520/image.png)
 ![DeObfuscated](https://cdn.discordapp.com/attachments/1070318710742597704/1110831464922218517/image.png)
